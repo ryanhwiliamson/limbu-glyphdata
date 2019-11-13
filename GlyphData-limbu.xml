@@ -65,7 +65,7 @@
 	<glyph unicode="192B" name="wa-limbu.subjoined" category="Letter" script="limbu" production="uni192B" description="LIMBU SUBJOINED LETTER WA" />
 	<glyph unicode="1930" name="ka-limbu.small" category="Letter" script="limbu" production="uni1930" altNames="ka-limbu.small" description="LIMBU SMALL LETTER KA" />
 	<glyph unicode="1931" name="nga-limbu.small" category="Letter" script="limbu" production="uni1931" altNames="nga-limbu.small" description="LIMBU SMALL LETTER NGA" />
-	<glyph unicode="1932" name="anusvara-limbu.small" category="Mark" subCategory="Nonspacing" script="limbu" production="uni1932" altNames="anusvara-limbu.small" description="LIMBU SMALL LETTER ANUSVARA" anchors="_bottom" />
+	<glyph unicode="1932" name="anusvara-limbu" category="Mark" subCategory="Nonspacing" script="limbu" production="uni1932" altNames="anusvara-limbu.small" description="LIMBU SMALL LETTER ANUSVARA" anchors="_bottom" />
 	<glyph unicode="1933" name="ta-limbu.small" category="Mark" subCategory="Nonspacing" script="limbu" production="uni1933" altNames="ta-limbu.small" description="LIMBU SMALL LETTER TA" anchors="_bottom" />
 	<glyph unicode="1934" name="na-limbu.small" category="Letter" script="limbu" production="uni1934" altNames="na-limbu.small" description="LIMBU SMALL LETTER NA" />
 	<glyph unicode="1935" name="pa-limbu.small" category="Letter" script="limbu" production="uni1935" altNames="pa-limbu.small" description="LIMBU SMALL LETTER PA" />
