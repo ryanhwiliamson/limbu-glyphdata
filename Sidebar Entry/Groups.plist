@@ -8,7 +8,7 @@
                 {
                     name = "Letters and Marks";
                     coverage = (
-                      vowelcarrier-limbu,
+                      vowelCarrier-limbu,
                       ka-limbu,
                       kha-limbu,
                       ga-limbu,
@@ -39,19 +39,7 @@
                       ha-limbu,
                       gyan-limbu,
                       tra-limbu,
-                      ai-limbu,
-                      ee-limbu,
-                      aa-limbu,
-                      au-limbu,
-                      e-limbu,
-                      i-limbu,
-                      o-limbu,
-                      oo-limbu,
-                      u-limbu,
-                      sai-limbu,
-                      kemphreng-limbu,
-                      mukphreng-limbu,
-                      anusvara-limbu,
+
                       ka-limbu.small,
                       la-limbu.small,
                       ma-limbu.small,
@@ -63,6 +51,22 @@
                       ra-limbu.subjoined,
                       wa-limbu.subjoined,
                       ya-limbu.subjoined,
+
+                      ai-limbu,
+                      ee-limbu,
+                      au-limbu,
+                      oo-limbu,
+
+                      aa-limbu,
+                      e-limbu,
+                      i-limbu,
+                      o-limbu,
+                      kemphreng-limbu,
+
+                      u-limbu,
+                      sai-limbu,
+                      mukphreng-limbu,
+                      anusvara-limbu,
                     );
                 },
                 {
