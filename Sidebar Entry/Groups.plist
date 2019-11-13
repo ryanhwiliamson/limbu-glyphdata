@@ -1,0 +1,39 @@
+{
+    languages = (
+        {
+            name = "Elymaic";
+            icon = ElymaicTemplate;
+            predicate = "script == \"elymaic\"";
+            subGroup = (
+                {
+                    name = "Letters";
+                    coverage = (
+						aleph-elym,
+						beth-elym,
+						gimel-elym,
+						daleth-elym,
+						he-elym,
+						waw-elym,
+						zayin-elym,
+						heth-elym,
+						teth-elym,
+						yodh-elym,
+						kaph-elym,
+						lamedh-elym,
+						mem-elym,
+						nun-elym,
+						samekh-elym,
+						ayin-elym,
+						pe-elym,
+						sadhe-elym,
+						qoph-elym,
+						resh-elym,
+						shin-elym,
+						taw-elym,
+						zayin_yodh-elym
+                    );
+                }
+            );
+        },
+    );
+}
