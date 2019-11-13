@@ -70,6 +70,10 @@
                     );
                 },
                 {
+                    predicate = "subCategory == \"Ligature\"";
+                    name = "Ligatures";
+                },
+                {
                     name = "Figures and Punctuation";
                     coverage = (
                       zero-limbu,
@@ -85,6 +89,18 @@
                       exclam-limbu,
                       question-limbu,
                       loo-limbu,
+                    );
+                },
+                {
+                    name = "Separators and Symbols";
+                    coverage = (
+                      dottedCircle,
+                      space,
+                      nbspace,
+                      zerowidthspace,
+                      zerowidthjoiner,
+                      zerowidthnonjoiner,
+                      wordjoiner,
                     );
                 }
             );
