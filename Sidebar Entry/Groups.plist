@@ -1,36 +1,86 @@
 {
     languages = (
         {
-            name = "Elymaic";
-            icon = ElymaicTemplate;
-            predicate = "script == \"elymaic\"";
+            name = "Limbu";
+            icon = LimbuTemplate;
+            predicate = "script == \"limbu\"";
             subGroup = (
                 {
-                    name = "Letters";
+                    name = "Letters and Marks";
                     coverage = (
-						aleph-elym,
-						beth-elym,
-						gimel-elym,
-						daleth-elym,
-						he-elym,
-						waw-elym,
-						zayin-elym,
-						heth-elym,
-						teth-elym,
-						yodh-elym,
-						kaph-elym,
-						lamedh-elym,
-						mem-elym,
-						nun-elym,
-						samekh-elym,
-						ayin-elym,
-						pe-elym,
-						sadhe-elym,
-						qoph-elym,
-						resh-elym,
-						shin-elym,
-						taw-elym,
-						zayin_yodh-elym
+                      vowelcarrier-limbu,
+                      ka-limbu,
+                      kha-limbu,
+                      ga-limbu,
+                      gha-limbu,
+                      nga-limbu,
+                      cha-limbu,
+                      ca-limbu,
+                      ja-limbu,
+                      jha-limbu,
+                      yan-limbu,
+                      ta-limbu,
+                      tha-limbu,
+                      da-limbu,
+                      dha-limbu,
+                      na-limbu,
+                      pa-limbu,
+                      pha-limbu,
+                      ba-limbu,
+                      bha-limbu,
+                      ma-limbu,
+                      ya-limbu,
+                      ra-limbu,
+                      la-limbu,
+                      wa-limbu,
+                      sha-limbu,
+                      ssa-limbu,
+                      sa-limbu,
+                      ha-limbu,
+                      gyan-limbu,
+                      tra-limbu,
+                      ai-limbu,
+                      ee-limbu,
+                      aa-limbu,
+                      au-limbu,
+                      e-limbu,
+                      i-limbu,
+                      o-limbu,
+                      oo-limbu,
+                      u-limbu,
+                      sai-limbu,
+                      kemphreng-limbu,
+                      mukphreng-limbu,
+                      anusvara-limbu,
+                      ka-limbu.small,
+                      la-limbu.small,
+                      ma-limbu.small,
+                      na-limbu.small,
+                      pa-limbu.small,
+                      nga-limbu.small,
+                      ra-limbu.small,
+                      ta-limbu.small,
+                      ra-limbu.subjoined,
+                      wa-limbu.subjoined,
+                      ya-limbu.subjoined,
+                    );
+                },
+                {
+                    name = "Figures and Punctuation";
+                    coverage = (
+                      zero-limbu,
+                      one-limbu,
+                      two-limbu,
+                      three-limbu,
+                      four-limbu,
+                      five-limbu,
+                      six-limbu,
+                      seven-limbu,
+                      eight-limbu,
+                      nine-limbu,
+                      exclam-limbu,
+                      question-limbu,
+                      loo-limbu,
                     );
                 }
             );
