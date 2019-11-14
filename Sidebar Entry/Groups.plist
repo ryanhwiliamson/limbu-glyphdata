@@ -6,7 +6,7 @@
             predicate = "script == \"limbu\"";
             subGroup = (
                 {
-                    name = "Letters and Marks";
+                    name = "Letters";
                     coverage = (
                       vowelCarrier-limbu,
                       ka-limbu,
@@ -39,19 +39,11 @@
                       ha-limbu,
                       gyan-limbu,
                       tra-limbu,
-
-                      ka-limbu.small,
-                      la-limbu.small,
-                      ma-limbu.small,
-                      na-limbu.small,
-                      pa-limbu.small,
-                      nga-limbu.small,
-                      ra-limbu.small,
-                      ta-limbu.small,
-                      ra-limbu.subjoined,
-                      wa-limbu.subjoined,
-                      ya-limbu.subjoined,
-
+                    );
+                },
+                {
+                    name = "Marks";
+                    coverage = (
                       ai-limbu,
                       ee-limbu,
                       au-limbu,
