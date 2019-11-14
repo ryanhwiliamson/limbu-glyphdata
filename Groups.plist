@@ -48,17 +48,26 @@
                       ee-limbu,
                       au-limbu,
                       oo-limbu,
-
                       aa-limbu,
                       e-limbu,
                       i-limbu,
                       o-limbu,
                       kemphreng-limbu,
-
                       u-limbu,
                       sai-limbu,
                       mukphreng-limbu,
                       anusvara-limbu,
+                      ka-limbu.small,
+                      la-limbu.small,
+                      ma-limbu.small,
+                      na-limbu.small,
+                      pa-limbu.small,
+                      nga-limbu.small,
+                      ra-limbu.small,
+                      ta-limbu.small,
+                      ra-limbu.subjoined,
+                      wa-limbu.subjoined,
+                      ya-limbu.subjoined
                     );
                 },
                 {
